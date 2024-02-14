@@ -3117,7 +3117,7 @@ div.ui-widget-overlay {
 }
 
 body.oe_single_form {
-  background: #eee url(/web/static/src/img/bg.png);
+  background: #eee url(/web/static/src/img/swami.jpg);
   background-size: cover;
 
     /* Center the background image both horizontally and vertically */
@@ -3143,8 +3143,8 @@ body.oe_single_form .oe_single_form_container {
   top: 50%;
   width: 400px;
   /* Set margins to offset 50% of the w/h */
-  margin-top: -200px;
-  margin-left: 132px;
+  margin-top: -222px;
+  margin-left: 169px
 }
 
 .openerp_ie .placeholder {
