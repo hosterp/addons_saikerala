@@ -3141,10 +3141,10 @@ body.oe_single_form .oe_single_form_container {
   position: absolute;
   left: 50%;
   top: 50%;
-  width: 400px;
+  width: 363px;
   /* Set margins to offset 50% of the w/h */
-  margin-top: -222px;
-  margin-left: 169px
+  margin-top: -320px;
+  margin-left:281px;
 }
 
 .openerp_ie .placeholder {
